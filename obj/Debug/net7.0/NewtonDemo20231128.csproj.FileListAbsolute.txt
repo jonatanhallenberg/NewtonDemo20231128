@@ -1,0 +1,15 @@
+/Users/jonatan/repos/NewtonDemo20231128/bin/Debug/net7.0/NewtonDemo20231128
+/Users/jonatan/repos/NewtonDemo20231128/bin/Debug/net7.0/NewtonDemo20231128.deps.json
+/Users/jonatan/repos/NewtonDemo20231128/bin/Debug/net7.0/NewtonDemo20231128.runtimeconfig.json
+/Users/jonatan/repos/NewtonDemo20231128/bin/Debug/net7.0/NewtonDemo20231128.dll
+/Users/jonatan/repos/NewtonDemo20231128/bin/Debug/net7.0/NewtonDemo20231128.pdb
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.csproj.AssemblyReference.cache
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.AssemblyInfoInputs.cache
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.AssemblyInfo.cs
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.csproj.CoreCompileInputs.cache
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.dll
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/refint/NewtonDemo20231128.dll
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.pdb
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/NewtonDemo20231128.genruntimeconfig.cache
+/Users/jonatan/repos/NewtonDemo20231128/obj/Debug/net7.0/ref/NewtonDemo20231128.dll
