@@ -18,7 +18,7 @@ CREATE TABLE Account (
 GO
 
 CREATE TABLE Transaction (
-    TransactionID INT PRIMARY KEY,
+    TransactionID INT PRIMARY KEY IDENTITY(1,1),
     AccountID INT,
     Type NVARCHAR(50),
     Amount DECIMAL(18, 2),
@@ -113,7 +113,7 @@ GO
 
 ### Steg 8: Testa om rollback fungerar
 
-- Upprepa Steg 4 och 5 fast med *TestFailedTransaction* och kontrollera att ingen data uppdateras i Account.
+- Upprepa Steg 5 och 6 fast med *TestFailedTransaction* och kontrollera att ingen data uppdateras i Account.
 
 ### Steg 9: Skapa `TransactionLog` Tabell och Trigger
 
