@@ -106,7 +106,9 @@ BEGIN
 
     UPDATE Account SET Balance = Balance + @Amount WHERE AccountID = @ToAccountID;
 
-    COMMIT;
+    IF @@ERROR <> 0
+        ROLLBACK;
+    ELSE COMMIT;
 END;
 GO
 ```
